@@ -12,7 +12,7 @@ It's a simple eCommerce "Shop" Application developed using Flutter-Firebase. It 
 ✔ Maintain cart\
 ✔ Make products as favourite\
 ✔ Review your orders\
-✔ Connect with Firebase and store data as a RealTime data\
+✔ Connect with Firebase and store data as a RealTime data
 
 ## 🎬 Illustration
 
